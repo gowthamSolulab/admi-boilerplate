@@ -35,4 +35,4 @@ npm start
 ```
  Your server will start listening on port 3000.
  
- Note: Please define atleast one Modal to connect to database
+ Note: Please define atleast one Model to connect to database
